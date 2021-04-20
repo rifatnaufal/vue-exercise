@@ -1,5 +1,3 @@
-# setup2
-
 ## Build Setup
 
 ```bash
